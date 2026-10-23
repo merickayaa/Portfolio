@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-23 19:14+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\portfolio\settings.py:115
+msgid "Turkish"
+msgstr "Turkish"
+
+#: .\portfolio\settings.py:115
+msgid "English"
+msgstr "English"
+
+#: .\templates\index.html:52
+msgid "ANASAYFA"
+msgstr "HOMEPAGE"
+
+#: .\templates\index.html:55 .\templates\index.html:124
+msgid "HAKKIMDA"
+msgstr "ABOUT ME"
+
+#: .\templates\index.html:58
+msgid "HOBİLERİM"
+msgstr "MY HOBBIES"
+
+#: .\templates\index.html:61 .\templates\index.html:181
+msgid "PROJELERİM"
+msgstr "MY PROJECTS"
+
+#: .\templates\index.html:66
+msgid "Dil"
+msgstr "Language"
+
+#: .\templates\index.html:82
+msgid "MERHABA BEN MERİÇ KAYA"
+msgstr "HELLO, I'M MERİÇ KAYA"
+
+#: .\templates\index.html:105
+msgid "Bilgisayar Programcısı"
+msgstr "Computer Programmer"
+
+#: .\templates\index.html:109
+msgid "AD"
+msgstr "NAME"
+
+#: .\templates\index.html:110
+msgid "SOYAD"
+msgstr "SURNAME"
+
+#: .\templates\index.html:111
+msgid "DOĞUM TARİHİ"
+msgstr "DATE OF BIRTH"
+
+#: .\templates\index.html:111
+msgid "09.12.2004"
+msgstr "12/09/2004"
+
+#: .\templates\index.html:112
+msgid "ÜLKE"
+msgstr "COUNTRY"
+
+#: .\templates\index.html:112
+msgid "Türkiye"
+msgstr "Turkey"
+
+#: .\templates\index.html:117
+msgid "EMAİL"
+msgstr "EMAIL"
+
+#: .\templates\index.html:118
+msgid "ŞEHİR"
+msgstr "CITY"
+
+#: .\templates\index.html:119
+msgid "DİL"
+msgstr "LANGUAGE"
+
+#: .\templates\index.html:120
+msgid "BİLDİĞİM KODLAMA DİLLERİ"
+msgstr "PROGRAMMING LANGUAGES I KNOW"
+
+#: .\templates\index.html:137
+msgid "HOBİLERİM&İLGİLERİM"
+msgstr "MY HOBBIES&INTERESTS"
+
+#~ msgid "Türkçe"
+#~ msgstr "Turkish"
+
+#~ msgid "İngilizce"
+#~ msgstr "English"
+
+#~ msgid "ADRES"
+#~ msgstr "ADDRESS"
