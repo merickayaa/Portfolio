@@ -27,7 +27,7 @@ Kendimi, ilgi alanlarımı ve projelerimi tanıttığım, Django ile geliştiril
 | Proje | Açıklama | Bağlantılar |
 |-------|----------|-------------|
 | **Django Multi-Vendor E-Ticaret** | Django ile geliştirdiğim çok satıcılı e-ticaret sitesi. Sepet, PayPal Sandbox ile ödeme, satıcı paneli, ürün yorumları ve istek listesi içerir. AWS Elastic Beanstalk ve MySQL (AWS RDS) üzerinde çalışır. | [Canlı site](http://djangoecommerce-env.eba-mjr8eytm.eu-north-1.elasticbeanstalk.com/) · [Kaynak kod](https://github.com/merickayaa/Django-Multivendor-Ecommerce) |
-| **BAUN Media** | Django ile geliştirdiğim sosyal medya sitesi | [Canlı site](http://baun-media.eu-north-1.elasticbeanstalk.com/) · [Kaynak kod](https://github.com/merickayaa/Django-Social-Media) |
+| **BAUN Media** | Balıkesir Üniversitesi Bilgisayar Programcılığı ve benzer bölümlerden mezun olanların iletişim kurup yardımlaşması için Django ile geliştirdiğim sosyal medya sitesi. Öğrenci numarası veya kullanıcı adıyla giriş, kullanıcı arama ve takip etme, gönderi paylaşma, beğenme ve yorum yapma ile kullanıcılar arası mesajlaşma içerir. Django Crispy Forms (Bootstrap 4) ve WhiteNoise kullanır. AWS Elastic Beanstalk ve MySQL (AWS RDS) üzerinde çalışır. | [Canlı site](http://baun-media.eu-north-1.elasticbeanstalk.com/) · [Kaynak kod](https://github.com/merickayaa/Django-Social-Media) |
 
 ### Kullanılan Teknolojiler
 
@@ -114,7 +114,7 @@ My personal portfolio website, built with Django, where I introduce myself, my i
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Django Multi-Vendor E-Commerce** | A multi-vendor e-commerce website built with Django. Includes a shopping cart, checkout with PayPal Sandbox, a vendor dashboard, product reviews and a wishlist. Runs on AWS Elastic Beanstalk with MySQL (AWS RDS). | [Live site](http://djangoecommerce-env.eba-mjr8eytm.eu-north-1.elasticbeanstalk.com/) · [Source code](https://github.com/merickayaa/Django-Multivendor-Ecommerce) |
-| **BAUN Media** | A social media website built with Django | [Live site](http://baun-media.eu-north-1.elasticbeanstalk.com/) · [Source code](https://github.com/merickayaa/Django-Social-Media) |
+| **BAUN Media** | A social media website built with Django to help graduates of Computer Programming and related programs at Balıkesir University connect with and support each other. Includes login with a student number or username, searching and following users, posting, liking and commenting, and direct messaging between users. Uses Django Crispy Forms (Bootstrap 4) and WhiteNoise. Runs on AWS Elastic Beanstalk with MySQL (AWS RDS). | [Live site](http://baun-media.eu-north-1.elasticbeanstalk.com/) · [Source code](https://github.com/merickayaa/Django-Social-Media) |
 
 ### Technologies Used
 
