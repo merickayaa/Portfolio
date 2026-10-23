@@ -2,11 +2,15 @@
 
 [Türkçe](#türkçe) · [English](#english)
 
+🔗 **Canlı Site / Live Site:** https://merickaya.pythonanywhere.com/tr/
+
 ---
 
 ## Türkçe
 
 Kendimi, ilgi alanlarımı ve projelerimi tanıttığım, Django ile geliştirilmiş kişisel portfolyo sitesi. Site Türkçe ve İngilizce olarak kullanılabilir. İçeriğin tamamı Django admin panelinden yönetilir.
+
+🔗 **Canlı site:** [merickaya.pythonanywhere.com/tr](https://merickaya.pythonanywhere.com/tr/)
 
 ### Özellikler
 
@@ -34,6 +38,7 @@ Kendimi, ilgi alanlarımı ve projelerimi tanıttığım, Django ile geliştiril
 - Python, Django 5.2
 - django-modeltranslation
 - SQLite
+- PythonAnywhere (yayın)
 - HTML5, CSS3, JavaScript
 - [Bootstrap 5](https://getbootstrap.com/)
 
@@ -95,6 +100,8 @@ Portfolio/
 
 My personal portfolio website, built with Django, where I introduce myself, my interests and my projects. The site is available in Turkish and English, and all of its content is managed from the Django admin panel.
 
+🔗 **Live site:** [merickaya.pythonanywhere.com/en](https://merickaya.pythonanywhere.com/en/)
+
 ### Features
 
 - **Bilingual (TR / EN):** Interface text is translated with Django i18n, and database content with `django-modeltranslation`. The language can be switched from the selector in the menu.
@@ -121,6 +128,7 @@ My personal portfolio website, built with Django, where I introduce myself, my i
 - Python, Django 5.2
 - django-modeltranslation
 - SQLite
+- PythonAnywhere (hosting)
 - HTML5, CSS3, JavaScript
 - [Bootstrap 5](https://getbootstrap.com/)
 
