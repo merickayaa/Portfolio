@@ -115,8 +115,8 @@
             <div class="col-sm-6 text-left">
               <ul style="list-style-type: none; font-size: 24px;">
                 <li><b style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">{% translate "EMAİL" %} -</b><span class="fw-light" style="font-family: 'Courier New', Courier, monospace"><a href="mailto: merickay0@yandex.com" style="text-decoration: none; color: black;"> merickay0@yandex.com</a></span></li>
-                <li><b style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">{% translate "ŞEHİR" %} -</b> <span class="fw-light" style="font-family: 'Courier New', Courier, monospace">{{profile.city}}</span></li>
-                <li><b style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">{% translate "DİL" %} -</b> {% for lang in profile.languages %}<span class="fw-light" style="font-family: 'Courier New', Courier, monospace">{{lang}}</span>{% endfor %}</li>
+                <li><b style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">{% translate "ŞEHİR" %} -</b> <span class="fw-light" style="font-family: 'Courier New', Courier, monospace"> {{profile.city}}</span></li>
+                <li><b style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">{% translate "DİL" %} -</b><span class="fw-light" style="font-family: 'Courier New', Courier, monospace"> {{profile.languages}}</span></li>
                 <li><b style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">{% translate "BİLDİĞİM KODLAMA DİLLERİ" %} -</b> {% for code in profile.codes.all %}<span class="fw-light" style="font-family: 'Courier New', Courier, monospace">{{code}}{% if not forloop.last %}, {% endif %}</span>{% endfor %}</li>
               </ul>
             </div>
